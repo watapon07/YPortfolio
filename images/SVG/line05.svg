@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="line05" data-name="line05" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1867.08 616.15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #aad7ef;
+        stroke-miterlimit: 10;
+        stroke-width: 20px;
+      }
+    </style>
+  </defs>
+  <g id="line05" data-name="line05">
+    <path class="cls-1" d="m1857.98,4.15c-67,147-210,152-224,158s-79,89-170,134-157,45-212,51-152-27-177-36-97-49-54-88,121-19,121,10-55,129-108,137-138,20-161,20-77.96-27-124.98,0-108.38,57.56-145.02,82c-64.66,43.13-57.01,51.35-116,81-58.25,29.28-232,53-257,53s-168-14-168-14l-61-6"/>
+  </g>
+</svg>

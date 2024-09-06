@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="line04" data-name="line04" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1210 516">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #aad7ef;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 20px;
+      }
+    </style>
+  </defs>
+  <g id="line04" data-name="line04">
+    <path class="cls-1" d="m10,506c216-10,346-33,455-103s203-179,203-179c0,0,120-135-24-172s-111.35,146.16-69,177c92,67,168,20,193,4s0,0,92-64c62.69-43.61,82-11,82,7s10,108,42,85,115-80,162-162,54-89,54-89"/>
+  </g>
+</svg>

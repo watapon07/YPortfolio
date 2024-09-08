@@ -923,9 +923,14 @@ main h1 img {
     margin: 20px 0 200px;
 }
 
+.form {
+    width: 100%;
+    margin: 0 auto;
+}
+
 .form-area {
     width: 100%;
-    margin-left: 150px;
+    margin-left: calc(100vw - 80%);
     display: flex;
     flex-wrap: wrap;
 }
